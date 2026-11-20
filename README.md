@@ -1,3 +1,9 @@
+> **ASC Team fork.** This is a study copy of published ASC Student Supercomputer Challenge materials. It is not an official ASC Committee repository, and it is not a university endorsement.
+>
+> - Contest: ASC19 (2019)
+> - Upstream: https://github.com/ASC-Competition/ASC19-FaceSR
+> - Year and original name are recorded in [SOURCE.md](SOURCE.md).
+
 # ASC19-FaceSR
 The validation data and testing data for ASC19 face super resolution challenge. https://www.asc-events.org/ASC19/
 
